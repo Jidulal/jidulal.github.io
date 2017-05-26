@@ -1,0 +1,41 @@
+.company-experience{
+	border-bottom: 1px solid #8e8b8b;
+	padding-bottom: 4px;
+	margin-bottom: 15px;
+}
+.company-experience h5{
+	margin-bottom: 5px;
+    font-size: 23px;
+    letter-spacing: 2px;
+}
+.company-experience h5 b{
+	color: #333333 !important;
+}
+.company-address{
+	margin-bottom: 10px;
+	display: block;
+}
+.company-address .fa{
+	display: table-cell;
+	width: 28px;
+	vertical-align: top;
+	font-size: 18px;
+	padding-top: 7px;
+}
+.company-address span{
+	display: table-cell;
+	vertical-align: top;
+	font-size: 18px;
+	margin-top: -13px;
+	position: relative;
+	color: #888888;
+}
+.company-address span a{
+	text-decoration: none;
+}
+.company-address span a.b{
+	color: #888888 !important;
+}
+.company-address span.role{
+	font-weight: 600;
+}
